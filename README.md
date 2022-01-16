@@ -1,2 +1,2 @@
-# Wadi
-Architecure intutive methodology
+# IAM
+Intutive Architecure Methodology
