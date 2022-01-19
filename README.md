@@ -1,2 +1,2 @@
-# IAM
-Intutive Architecure Methodology
+# IA
+Intutive Architecure
