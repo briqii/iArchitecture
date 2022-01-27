@@ -1,6 +1,9 @@
 # Intuitive Architecture - IA
+
+IA is a practice architecture methodology and framework, learning from previous and current methodologies/frameworks and the practical experience with many industries and technologies that coping with market changes  
+
 The following diagram depict the basic idea of the methodology which is based on architecture methodologies (e.g. TOGAF and Zachman) and agile frameworks (e.g. PMI DaD, SAFe, and LeSS)  
-![Intuitive Architecture Framework Basic Parts and Iteration Flow](/diagrams/IA%20Framework.png)
+![Intuitive Architecture Framework Basic Parts and Iteration Flow](/diagrams/IA.png)
 
 **Parts:**
 - Architecture Team - It is mainly the architecture team but could include other members whom interested and counted for architecture like SME and tech mangers.
