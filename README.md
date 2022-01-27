@@ -1,6 +1,6 @@
 # iArchitecture (Intuitive Architecture)
 
-IA is a practice architecture methodology and framework, learning from previous and current methodologies/frameworks and the practical experience with many industries and technologies that coping with market changes  
+iArchitecture is a practice architecture methodology and framework, learnt from previous and current architecture methodologies/frameworks and the practical delivery experience with many industries and technologies that coping with market changes  
 
 The following diagram depict the basic idea of the methodology which is based on architecture methodologies (e.g. TOGAF and Zachman) and agile frameworks (e.g. PMI DaD, SAFe, and LeSS)  
 ![Intuitive Architecture Framework Basic Parts and Iteration Flow](/diagrams/IA.png)
