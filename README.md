@@ -1,4 +1,4 @@
-# Intuitive Architecture - IA
+# Intuitive Architecture - iArchitecture
 
 IA is a practice architecture methodology and framework, learning from previous and current methodologies/frameworks and the practical experience with many industries and technologies that coping with market changes  
 
