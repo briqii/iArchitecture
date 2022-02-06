@@ -6,8 +6,7 @@ The following diagram depict the basic idea of the methodology which is based on
 ![Intuitive Architecture Framework Basic Parts and Iteration Flow](/diagrams/IA.png)
 
 **Parts:**
-- Architecture Team - It is mainly the architecture team but could include other members whom interested and counted for architecture like SME and tech mangers.
-The structure of the team is setup as per each organization need, while the existing of architecture community is a must and have to be led by EA architect, CTO, or equivalent roles.
+- Architecture Team - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/92d8ddd9661dbf434f2751f0f1f9959df5f939a6/architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
 
 - Architecture Mindset & Library - Architecture principles, standards, and content (previous and current solution docs, assessments, templates, and registry)   
 
