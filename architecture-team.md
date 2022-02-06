@@ -2,4 +2,4 @@ The natural representation of Architecture Team is to be an independent and bold
 
 
 Architecture activities is the reflection of iArchitcture definition for Architecture as follows:</br> 
-Architecture is the innovated idea(s) as result to knowledge and experience, following the fundamental principles, and fit with business requirements.
+Architecture is the innovated idea(s) as an output to the knowledge and experience, following the fundamental principles, and fit with business requirements.
