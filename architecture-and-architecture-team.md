@@ -1,4 +1,4 @@
-**Definitions**
+**Definitions**<br/>
 Architecture activities is the reflection of iArchitcture definition for Architecture as follows:</br> 
 Architecture is the innovated ideas (as an output of the knowledge, experience, and fundamental principles) seeking a practical solution fit with the business requirements.
 
@@ -16,7 +16,7 @@ Architecture View - refers to the perspective view like business view, logical v
 Architecture Level - refers to the level of details required for each architecture type and architecture view like high level details, low level details, or high level for some parts and low level for others as per each case.
 
 
-**Team structure**
+**Team structure**<br/>
 The natural representation of Architecture Team is to be an independent and bold team responsible about the architecture activities and support design activities by other teams like UX and development.
 
 [TBC]
