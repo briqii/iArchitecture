@@ -6,7 +6,7 @@ The following diagram depict the basic idea of the methodology which is based on
 <img src="https://github.com/hisham-elbreky/iArchitecture/blob/188e7174dd96a8d988eef5e8ec1d1dbecbbc2ae4/diagrams/iArchitecture%20Framework.png" width="60%"/>
 
 **Parts:**
-- Architecture Team - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/92d8ddd9661dbf434f2751f0f1f9959df5f939a6/architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
+- Architecture Team - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/346a961ac909136828df31a9aac1a95f8a3844a1/architecture-and-architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
 
 - Architecture Mindset & Library - Architecture principles, standards, and content (previous and current solution docs, assessments, templates, and registry)   
 
