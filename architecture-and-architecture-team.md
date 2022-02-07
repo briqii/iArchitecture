@@ -1,6 +1,6 @@
 **Definitions**<br/>
-Architecture activities is the reflection of iArchitcture definition for Architecture as follows:</br> 
-Architecture is the innovated ideas (as an output of the knowledge, experience, and fundamental principles) seeking a practical solution fit with the business requirements.
+Architecture activities is the reflection of iArchitcture definition of Architecture as follows:</br> 
+**Architecture is the innovated ideas (as an output of the knowledge, experience, and fundamental principles) seeking a practical solution fit with the business requirements.**
 
 Software architecture has multiple shades, unlike the traditional buildings architecture, each shade represent a scope in the software industry like e.g. enterprise architecture, solutions architecture, technology architecture, application architecture, etc. all architecture shades are met with the definition iArchitecure, also each shade could come with deferent degrees.
 
