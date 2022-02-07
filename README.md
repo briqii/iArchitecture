@@ -6,23 +6,18 @@ The following diagram depict the basic idea of the methodology which is based on
 <img src="https://github.com/hisham-elbreky/iArchitecture/blob/d51cfe648e63412641e8e6b539ea1f10de1ffbbe/diagrams/IA%20Framework.png" width="60%"/>
 
 **Parts:**
-- Architecture Team - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/ad69b199240d84b1f7c8efef24e6c138c5bd2ea7/architecture/architecture-and-architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
+- **Architecture Team** - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/ad69b199240d84b1f7c8efef24e6c138c5bd2ea7/architecture/architecture-and-architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
 
-- Architecture Mindset & Library - Architecture principles, standards, and content (previous and current solution docs, assessments, templates, and registry)   
+- **Mindset & Content** - Architecture principles, standards, and content (previous and current solution docs, assessments, templates, and registry)   
 
-- Architecture Solution - High level design documents for architecture solutions which cover different architecture views like logical design (business, app, and data), physical, technologies, integration, etc. 
+- **Solutions** -  cover the different architecture views like logical design (business, app, and data), physical, technologies, integration, etc. 
 Reference architecture covers the common architecture views while solution architecture document could cover all views or a set of views as per stakeholder matrix and requirements.
-There are two processes for creating architecture solution according to the type of demand:
-  - Regular architecture, represent the normal process of creating a solution, it takes longer time but care with the long term targets of the application.
-  - casual (Or Tactical) architecture, flexible process used to provide quick solutions for business emergency, development support, or management support. The solution must be aligned with the target solution and designed with smooth transition phases to the target.
 
-- Development Team
+There are two paths for creating architecture solutions:
+  1. Regular path, represent the normal process of creating a solution, it takes longer time but care with the long term targets of the application.
+  1. Casual (Or Tactical) path, flexible process used to provide quick solutions for business emergency, development support, or management support. The solution must be aligned with the target solution and designed with smooth transition phases to the target.
 
-- Operation Team
 
-- Business Team - Business teams (e.g. product owners and product managers in agile)
-
-- Business Requirements  - Like backlog in agile methodology
 
 **References**
 - Togaf capability framework , architecture content, and architecture continuum 
