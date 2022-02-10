@@ -3,7 +3,7 @@
 iArchitecture is a practical architecture methodology and framework, learnt from previous and current architecture methodologies/frameworks and the practical delivery experience with many industries and technologies that coping with market changes  
 
 The following diagram depict the basic idea of the methodology which is based on architecture methodologies (e.g. TOGAF and Zachman) and agile frameworks (e.g. PMI DaD, SAFe, and LeSS)  
-<img src="https://github.com/hisham-elbreky/iArchitecture/blob/d51cfe648e63412641e8e6b539ea1f10de1ffbbe/diagrams/IA%20Framework.png" width="60%"/>
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/7dff68c679bbf2e0a7bee953e71ce4ad0d56a9e1/diagrams/IA%20Framework.png" width="60%"/>
 
 **Parts:**
 - **Architecture Team** - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/ad69b199240d84b1f7c8efef24e6c138c5bd2ea7/architecture/architecture-and-architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
