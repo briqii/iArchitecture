@@ -3,7 +3,7 @@ iArchitecture Mindset is the principles, knowledge, and experience credit which 
 
 The following diagram depict iArchitecture mindset
 
-<img src="https://github.com/hisham-elbreky/iArchitecture/blob/5f0e210467321969e1a4fb1796bbb94d003137dd/diagrams/mindset.png" width="40%"/>
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/639f299e7c1708467742e61c3b638b3c2d25eb8b/diagrams/mindset.png" width="40%"/>
 
 # Principles 
 Principles are the belief that lead the way of thinking and behavior. The quality of principles are affected by the learnt knowledge and experience.
