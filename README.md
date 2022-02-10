@@ -8,7 +8,7 @@ The following diagram depict the basic idea of the methodology which is based on
 **Parts:**
 - **Architecture Team** - It is mainly [the architecture team](https://github.com/hisham-elbreky/iArchitecture/blob/ad69b199240d84b1f7c8efef24e6c138c5bd2ea7/architecture/architecture-and-architecture-team.md) but could include other members whom interested and counted for architecture like SME and tech mangers.
 
-- **Mindset & Content** - Architecture principles, standards, and content (previous and current solution docs, assessments, templates, and registry)   
+- **[Mindset & Content](https://github.com/hisham-elbreky/iArchitecture/blob/4d5a6d515d720861a36fc7306ead4442b9082160/mindset&content/readme.md)** - Architecture principles, standards, and content (previous and current solution docs, assessments, templates, and registry)   
 
 - **Solutions** -  cover the different architecture views like logical design (business, app, and data), physical, technologies, integration, etc. 
 Reference architecture covers the common architecture views while solution architecture document could cover all views or a set of views as per stakeholder matrix and requirements.
