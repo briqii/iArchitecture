@@ -2,7 +2,8 @@
 iArchitecture Mindset is the principles, knowledge, and experience credit which lead the way of developing a solution
 
 The following diagram depict iArchitecture mindset
-![]("/diagrams/mindset.png")
+
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/5f0e210467321969e1a4fb1796bbb94d003137dd/diagrams/mindset.png" width="40%"/>
 
 # Principles 
 Principles are the belief that lead the way of thinking and behavior. The quality of principles are affected by the learnt knowledge and experience.
@@ -32,7 +33,8 @@ The content is an storage to the artefacts of:
 7. Portfolio Registry - it is related to the **experience** and represent a traceability matrix for business, architecture solutions,and technologies.    
 
 The following diagram is another for iArchitecture mindset in action
-![]("mindset-in-action.png")
+
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/5f0e210467321969e1a4fb1796bbb94d003137dd/diagrams/mindset-in-action.png" width="40%"/>
 
 
 
