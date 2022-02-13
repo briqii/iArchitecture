@@ -19,7 +19,7 @@ There are two paths for creating architecture solutions:
   2. Casual (Or Tactical) path, flexible process used to provide quick solutions for business emergency, development support, or management support. The solution must be aligned with the target solution and designed with smooth transition phases to the target.
 
 This methodology is designed to match the common real case of software architecture solutions and the evolution of software processes, so the following diagram depict iArchitecture in the big image of SDLC, based on architecture methodologies (e.g. TOGAF and Zachman) and agile frameworks (e.g. PMI DaD, SAFe, and LeSS)  
-<img src="https://github.com/hisham-elbreky/iArchitecture/blob/434ff8ef7614a83042f9bfc33270743a43cc34e7/mindset/content/diagrams/iArchitecture%20framework.png" width="60%"/>
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/434ff8ef7614a83042f9bfc33270743a43cc34e7/mindset/content/diagrams/iArchitecture%20framework.png" width="70%"/>
 
 The following diagram reflect iArchitecture in the big image of software application development, it will be detailed in the
 
