@@ -1,3 +1,7 @@
+
+ ▶️ 🏗️ In Progress Work................................... 🏃 ◀️
+
+
 # iArchitecture (Intuitive Architecture)
 
 iArchitecture is a practical architecture methodology and framework, learnt from previous and current architecture methodologies/frameworks and the practical delivery experience with many industries and technologies that coping with market changes  
