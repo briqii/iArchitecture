@@ -24,4 +24,8 @@ The natural representation of Architecture Team is to be an independent and bold
 
 [TBC]
 
+## References:
+1. 
+2.[What type of IT Architect are you?]( https://www.redhat.com/architect/what-type-it-architect-are-you)
+
 
