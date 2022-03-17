@@ -24,7 +24,7 @@ This methodology is designed to match the common real case of software architect
 The following diagram reflect iArchitecture in the big image of software application development, it will be detailed in the
 
 **References**
-- Togaf capability framework , architecture content, and architecture continuum 
+- TOGAF capability framework , architecture content, and architecture continuum 
 - SAFe agile architecture 
 - PMI disciplined agile views , PMI EA, architecture of disciplined agile 
 - Less architecture and design 
