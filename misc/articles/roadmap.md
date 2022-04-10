@@ -10,12 +10,12 @@ Art is a diverse range of human activity, and resulting product, that involves c
 
 It is clear that software architecture is an art that requires talent and knowledge.
 
-The art of software architecture still rising and still in the formalization stage. I mean there is no clear boundaries set for software architecture yet, but the significant impact of software architecture is clear for all of us as software products invading people life, creating a new bond, mixing reality and virtualization. It is making a change in people life.
+The art of software architecture still rising and still in the formalization stage. I mean there is no clear boundaries set for software architecture yet, but the significant impact of software architecture is clear for all of us as software products invading people life, creating new bonds, mixing reality and virtualization. It is making a change in people life.
 
-What is the boundaries of software architecture?
+What are the boundaries of software architecture?
 Software products consist of three main parts:
 
-1. Application – the part meant by managing business use cases (logic and flow)
-2. Data
-3. Infrastructure  
+1. Application – the tangible part used to manage the implementation of business use-cases, hide the technical complexity from the end-user and might integrate with remote software services. Almost, application consist of two parts: frontend app as a client; backend app as a service which manage data access and the integration with other services.
+2. Data - information repos used by the application to retain business data.
+3. Infrastructure - it could be either soft-infrastructure or hard-infrastructure, but lets say infrastructure here is meant by the minimum required software and hardware specs to get the application up and running on the client channles, backend services, and data services.
 
