@@ -8,7 +8,7 @@ iArchitecture is a practical architecture methodology and framework, learnt from
 
 The following diagram depict the basic idea of iArchitecture
 
-<img src="https://github.com/hisham-elbreky/iArchitecture/blob/main/mindset/content/diagrams/TheConcept.png" width="40%"/>
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/main/mindset/content/diagrams/TheConcept.png" width="70%"/>
 
 **Parts:**
 - **[Architecture Team](https://github.com/hisham-elbreky/iArchitecture/blob/ad69b199240d84b1f7c8efef24e6c138c5bd2ea7/architecture/architecture-and-architecture-team.md)** - It is mainly the architecture team but could include other members whom interested and counted for architecture like SME and tech mangers.
@@ -23,9 +23,8 @@ There are two paths for creating architecture solutions:
   2. Casual (Or Tactical) path, flexible process used to provide quick solutions for business emergency, development support, or management support. The solution must be aligned with the target solution and designed with smooth transition phases to the target.
 
 This methodology is designed to match the common real case of software architecture solutions and the evolution of software processes, so the following diagram depict iArchitecture in the big image of SDLC, based on architecture methodologies (e.g. TOGAF and Zachman) and agile frameworks (e.g. PMI DaD, SAFe, and LeSS)  
-<img src="https://github.com/hisham-elbreky/iArchitecture/blob/main/mindset/content/diagrams/TheFramework.png" width="70%"/>
+<img src="https://github.com/hisham-elbreky/iArchitecture/blob/main/mindset/content/diagrams/TheFramework.png" width="100%"/>
 
-The following diagram reflect iArchitecture in the big image of software application development, it will be detailed in the
 
 **References**
 - TOGAF capability framework , architecture content, and architecture continuum 
